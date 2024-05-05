@@ -19,7 +19,6 @@
 		098CBEEE2BE463AA00B2BA6E /* WeatherDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098CBEED2BE463AA00B2BA6E /* WeatherDelegate.swift */; };
 		098CBEF12BE463CE00B2BA6E /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098CBEF02BE463CE00B2BA6E /* WeatherManager.swift */; };
 		098CBEF32BE4646700B2BA6E /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098CBEF22BE4646700B2BA6E /* TabBarViewController.swift */; };
-		09D6B3742BE81109002739C5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 09D6B3732BE81109002739C5 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,7 +35,6 @@
 		098CBEED2BE463AA00B2BA6E /* WeatherDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDelegate.swift; sourceTree = "<group>"; };
 		098CBEF02BE463CE00B2BA6E /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		098CBEF22BE4646700B2BA6E /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
-		09D6B3732BE81109002739C5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../Clima-iOS13/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +51,6 @@
 		093CE5472BE44B4800EB4F61 = {
 			isa = PBXGroup;
 			children = (
-				09D6B3732BE81109002739C5 /* README.md */,
 				093CE5522BE44B4800EB4F61 /* WeatherAR */,
 				093CE5512BE44B4800EB4F61 /* Products */,
 			);
@@ -178,7 +175,6 @@
 			files = (
 				093CE5562BE44B4800EB4F61 /* art.scnassets in Resources */,
 				093CE55D2BE44B4A00EB4F61 /* Assets.xcassets in Resources */,
-				09D6B3742BE81109002739C5 /* README.md in Resources */,
 				093CE55B2BE44B4800EB4F61 /* Base in Resources */,
 				093CE5602BE44B4A00EB4F61 /* Base in Resources */,
 			);
